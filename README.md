@@ -23,4 +23,4 @@ La calculadora realiza las siguientes operaciones:
 Puedes clonar el repositorio en tu máquina local utilizando el siguiente comando de `git`:
 
 ```bash
-git clone https://github.com/tu_usuario/calculadora-java.git
+git clone https://github.com/aparra1621/calculadorapotencia.java.git
